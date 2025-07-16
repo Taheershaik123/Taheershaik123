@@ -15,7 +15,7 @@
 - Database: `MySQL`
 - Soft Skills: Problem Solving • Project Management • Team Collaboration • Adaptability
 
-🚀 **Certifications & Internships**
+🚀 Certifications & Internships
 - **Web Development** – Internshala
 - **MERN Full Stack Development** – Cipher Schools
 - **Sales Management Intern** – Sri Veera Kids Park (via Optmyzr)
@@ -28,21 +28,3 @@
 - 💻 [GitHub](https://github.com/Taheershaik123)
 
 > _“The only way to do great work is to love what you do.” – Steve Jobs_
-
----
-
-## 📈 GitHub Stats
-
-![Taheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taheershaik123&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Taheershaik123&theme=tokyonight)](https://git.io/streak-stats)
-
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taheershaik123&layout=compact&theme=tokyonight)
-
-## 👁️ Profile Views
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Taheershaik123&label=Profile%20Views&color=blue&style=flat)
