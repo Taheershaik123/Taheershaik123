@@ -28,3 +28,4 @@
 - 💻 [GitHub](https://github.com/Taheershaik123)
 
 > _“The only way to do great work is to love what you do.” – Steve Jobs_
+![Trophy](https://github-profile-trophy.vercel.app/?username=your-username)
